@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/IUEventMaster/static/css/main.cdd09a81.chunk.css",
+    "main.js": "/IUEventMaster/static/js/main.ccf4668d.chunk.js",
+    "main.js.map": "/IUEventMaster/static/js/main.ccf4668d.chunk.js.map",
+    "runtime-main.js": "/IUEventMaster/static/js/runtime-main.a02cb136.js",
+    "runtime-main.js.map": "/IUEventMaster/static/js/runtime-main.a02cb136.js.map",
+    "static/css/2.54967762.chunk.css": "/IUEventMaster/static/css/2.54967762.chunk.css",
+    "static/js/2.805b7629.chunk.js": "/IUEventMaster/static/js/2.805b7629.chunk.js",
+    "static/js/2.805b7629.chunk.js.map": "/IUEventMaster/static/js/2.805b7629.chunk.js.map",
+    "index.html": "/IUEventMaster/index.html",
+    "static/css/2.54967762.chunk.css.map": "/IUEventMaster/static/css/2.54967762.chunk.css.map",
+    "static/css/main.cdd09a81.chunk.css.map": "/IUEventMaster/static/css/main.cdd09a81.chunk.css.map",
+    "static/js/2.805b7629.chunk.js.LICENSE.txt": "/IUEventMaster/static/js/2.805b7629.chunk.js.LICENSE.txt",
+    "static/media/1.fecacd85.jpg": "/IUEventMaster/static/media/1.fecacd85.jpg",
+    "static/media/2.93467c90.jpg": "/IUEventMaster/static/media/2.93467c90.jpg",
+    "static/media/3.bc1ec9bd.jpg": "/IUEventMaster/static/media/3.bc1ec9bd.jpg",
+    "static/media/4.44547df5.jpg": "/IUEventMaster/static/media/4.44547df5.jpg",
+    "static/media/5.ab986585.jpg": "/IUEventMaster/static/media/5.ab986585.jpg",
+    "static/media/6.7d3e1551.jpg": "/IUEventMaster/static/media/6.7d3e1551.jpg",
+    "static/media/IU_InspiringExcellence.03d06d90.png": "/IUEventMaster/static/media/IU_InspiringExcellence.03d06d90.png",
+    "static/media/RushHour.72e6109c.jpg": "/IUEventMaster/static/media/RushHour.72e6109c.jpg",
+    "static/media/Tekken.98e0cfb6.jpg": "/IUEventMaster/static/media/Tekken.98e0cfb6.jpg",
+    "static/media/VC12.1106c43f.jpg": "/IUEventMaster/static/media/VC12.1106c43f.jpg",
+    "static/media/andaz.8d9fdf31.jpg": "/IUEventMaster/static/media/andaz.8d9fdf31.jpg",
+    "static/media/dsw.d5cbd32a.jpg": "/IUEventMaster/static/media/dsw.d5cbd32a.jpg",
+    "static/media/font-awesome.min.css": "/IUEventMaster/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/img.238dc922.jpg": "/IUEventMaster/static/media/img.238dc922.jpg",
+    "static/media/img1.4dedd45c.jpg": "/IUEventMaster/static/media/img1.4dedd45c.jpg",
+    "static/media/nukkad.ea7c025e.jpg": "/IUEventMaster/static/media/nukkad.ea7c025e.jpg",
+    "static/media/treasurehunt.42468ca1.jpg": "/IUEventMaster/static/media/treasurehunt.42468ca1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a02cb136.js",
+    "static/css/2.54967762.chunk.css",
+    "static/js/2.805b7629.chunk.js",
+    "static/css/main.cdd09a81.chunk.css",
+    "static/js/main.ccf4668d.chunk.js"
+  ]
+}
